@@ -1,0 +1,122 @@
+body {
+  margin: 10;
+  padding: 0;
+  color: black;
+  background-color: white;
+  font-size: medium;
+  text-decoration: none;
+}
+
+tr:first-child {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  border: none;
+  text-decoration: none;
+}
+
+tr:nth-child(odd):not(:first-child) {
+  background-color: #cccfcd;
+}
+
+td,
+th {
+  padding: 10px;
+  text-align: start;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+tr:last-child {
+  text-decoration: none;
+}
+
+.btn1 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #ea0c5f;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn2 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #1a8cd8;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+.btn3 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #cc0000;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn4 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #ea0c5f;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn5 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #1a8cd8;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn6 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #cc0000;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn7 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #ea0c5f;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn8 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #1a8cd8;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.btn9 {
+  padding: 8px 8px;
+  width: 50px;
+  color: white;
+  background: #cc0000;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+}
